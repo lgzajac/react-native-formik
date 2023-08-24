@@ -1,4 +1,4 @@
-import { compose } from "recompose";
+import { compose } from "react-recompose";
 import handleTextInput from "./src/handleTextInput";
 import setFormikInitialValue from "./src/setFormikInitialValue";
 import withError from "./src/withError";
