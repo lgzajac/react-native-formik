@@ -1,4 +1,4 @@
-import { mapProps } from "recompose";
+import { mapProps } from "react-recompose";
 
 const getInputTypeProps = type => {
   switch (type) {

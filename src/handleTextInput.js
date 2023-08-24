@@ -1,4 +1,4 @@
-import { compose, withProps } from "recompose";
+import { compose, withProps } from "react-recompose";
 import { connect } from "formik";
 import withInputTypeProps from "./withInputTypeProps";
 import withFormikControl from "./withFormikControl";

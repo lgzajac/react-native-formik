@@ -1,4 +1,4 @@
-import { compose, mapProps } from "recompose";
+import { compose, mapProps } from "react-recompose";
 import { connect } from "formik";
 import withError from "./withError";
 import withTouched from "./withTouched";

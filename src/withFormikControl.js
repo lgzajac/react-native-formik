@@ -1,4 +1,4 @@
-import { mapProps, compose } from "recompose";
+import { mapProps, compose } from "react-recompose";
 import { connect } from "formik";
 import { get } from "lodash";
 import withErrorIfNeeded from "./withErrorIfNeeded";

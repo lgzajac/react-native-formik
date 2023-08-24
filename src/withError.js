@@ -1,4 +1,4 @@
-import { compose, mapProps } from "recompose";
+import { compose, mapProps } from "react-recompose";
 import _ from "lodash";
 
 import withFormik from "./withFormik";
